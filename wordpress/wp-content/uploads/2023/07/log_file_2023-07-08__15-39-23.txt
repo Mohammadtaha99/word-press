@@ -1,0 +1,67 @@
+
+---Downloaded files---
+The import files for: Own Shop Lite Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/breef13/wordpress
+Data file = C:\xampp\htdocs\breef13\wordpress/wp-content/uploads/2023/07/demo-content-import-file_2023-07-08__15-39-23.xml
+Widget file = C:\xampp\htdocs\breef13\wordpress/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-08__15-39-23.json
+Customizer file = C:\xampp\htdocs\breef13\wordpress/wp-content/uploads/2023/07/demo-customizer-import-file_2023-07-08__15-39-23.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Product Search - No Title - Imported
+Cart - Cart - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by - Imported
+Filter Products by Rating - Average rating - Imported
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+Recent Product Reviews - Recent reviews - Imported
+
+Footer Column1 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Column2 : 
+
+Products list - Products - Imported
+
+Footer Column3 : 
+
+Custom HTML - No Title - Imported
+Product Tag Cloud - Product tags - Imported
+Navigation Menu - Follow Us - Imported
+
+Topbar Sidebar : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
